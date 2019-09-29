@@ -1,0 +1,7 @@
+{
+    "name": "melen4/public_html/stubs/hk2",
+    "require": {
+        "php": ">=7.1",
+        "vkcom/vk-php-sdk": "^5.101"
+    }
+}
